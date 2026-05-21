@@ -32,5 +32,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    print("👋 Agent 已關閉，再見！")
-    print("Hello World")
